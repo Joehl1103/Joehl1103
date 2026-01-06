@@ -1,33 +1,28 @@
 # Joseph Loomis
 
-## Who am I?
+Full-stack developer building with React, Node.js, and TypeScript.
 
-* I am a seasoned post-sales Operations Specialist who fell in love with coding.
-* I love to think about systems and how to make them more efficient. I see code as the best way to do this. It gives us flexibility, precision, and safety.
-* I am transitioning from a data-heavy Operations role where I wrote lots of SQL,and node.js, and thought a lot about efficient workflows, to a developer role.
-* I started with Python and Java, and soon got joyfully sucked into the JS ecosystem.
-* I have complete the core parts of the [Full Stack Open Course](https://fullstackopen.com/en/) and am working on finishing up the extra modules.
-* I love experimenting with AI and am learning full agentic workflows to increase productivity.
-* I love to learn, excellence, and craftsmanship.
-* Producitivity and GTD nerd. I have tried a LOT of TODO and note-taking apps!
+## About Me
 
-## Technical Experience
-* HTML, CSS, JavaScript, React, Node.js, Mongoose
-* GraphQL, Typescript
-* Docker, Git
-* SQL
+- Completing [Full Stack Open](https://fullstackopen.com/) (Parts 9-13 in progress)
+- Background in Operations — I think in systems and workflows
+- Experimenting with AI tooling and agentic workflows
+- Values: learning, craftsmanship, shipping things that work
 
-## Highlighted Repos
-Work in progress...
+## Tech Stack
 
-## Outside of Work
-* Foodie
-* Singer
-* Liberal Artist
+JavaScript | TypeScript | React | Node.js | Express | MongoDB | Mongoose | GraphQL | SQL | Docker | Git
 
-### Social and Contact
-* [Linkedin](https://www.linkedin.com/in/jkhloomis/)
-* [X](https://x.com/JosephLoom30487)
-* Email: jkhloomis@icloud.com
+## Featured Projects
 
+- [Daily Spending Tracker](https://github.com/joehl1103/daily-spending-ynab) - YNAB integration for daily budget visibility
+- [Phonebook App](https://github.com/joehl1103/FullStackOpen-Phonebook) - Full-stack CRUD app with React + Express + MongoDB ([Live Demo](https://fullstackopen-phonebook-un30.onrender.com))
+- [Notes App](https://github.com/joehl1103/FullStackOpen-Notes) - REST API with React frontend
 
+## Beyond Code
+
+Singer | Foodie | Liberal arts background
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/jkhloomis/) | [X](https://x.com/JosephLoom30487) | jkhloomis@icloud.com
