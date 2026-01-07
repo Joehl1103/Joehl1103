@@ -17,7 +17,7 @@ JavaScript | TypeScript | React | Node.js | Express | MongoDB | Mongoose | Graph
 
 **Full Stack Open Projects**
 - Patientor, medical data management application (WIP)
-- Blog List application; mono-repo with 3 different examples of state management: standard react, reactQuery, redux
+- [Blog List application](https://github.com/Joehl1103/fso-blogs); mono-repo with 3 different examples of state management: standard react, reactQuery, redux
 - Library application, using GraphQL
 - [Notes App](https://github.com/joehl1103/FullStackOpen-Notes) - REST API with React frontend, deployed on Render.
 **Personal Projects**
