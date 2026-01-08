@@ -17,13 +17,10 @@ JavaScript | TypeScript | React | Node.js | Express | MongoDB | Mongoose | Graph
 
 **Full Stack Open Projects**
 - Patientor, medical data management application (WIP)
-- [Blog List application](https://github.com/Joehl1103/fso-blogs); mono-repo with 3 different examples of state management: standard react, reactQuery, redux
-- Library application, using GraphQL
-- [Notes App](https://github.com/joehl1103/FullStackOpen-Notes) - REST API with React frontend, deployed on Render.
+- [Redux Blog List application](https://github.com/Joehl1103/fso-blogs); mono-repo with 3 different examples of state management: standard react, reactQuery, redux
+- GraphQL library
 **Personal Projects**
-- [Daily Spending Tracker](https://github.com/joehl1103/daily-spending-ynab) - YNAB integration for daily budget visibility
-**Professional Projects**
-- note re: reg management and ptap emails
+- [Daily Spending Tracker](https://github.com/joehl1103/daily-spending-ynab) 
 
 ## Beyond Code
 
