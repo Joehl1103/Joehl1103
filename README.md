@@ -21,18 +21,18 @@ Full-stack developer building with React, Node.js, and TypeScript.
 ### Full Stack Open Projects (Professional)
 
 _These three projects are deployed on Vercel.com (FE) and Render.com (BE)._
-| Project | Description | Stack | Repository |
+| Project | Description | Stack | Links |
 | ----------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | --------- |
-| [Patientor](https://fso-patientor-typescript.vercel.app) | Medical data management application | React, Material UI, TS, Node, Express | [GitHub](https://github.com/Joehl1103/fso-patientor-typescript) |
-| [Redux Blog List](https://fso-blogs-redux.vercel.app/login) | Full-stack blog catalog with authentication, CRUD workflows, and a complete testing pyramid. | React, Redux, React Router, Tailwind CSS, JWT, Express, MongoDB, Playwright | [GitHub](https://github.com/Joehl1103/fso-redux-blog-list) |
-| [GraphQL Library](https://fso-library-graphql.vercel.app/) | Library and author management with GraphQL API | React, JWT, Apollo, GraphQL | [GitHub](https://github.com/Joehl1103/fso-library-graphql) |
+| Patientor | Medical data management application | React, Material UI, TS, Node, Express | [Live Demo](https://fso-patientor-typescript.vercel.app) • [Code](https://github.com/Joehl1103/fso-patientor-typescript) |
+| Redux Blog List | Full-stack blog catalog with authentication, CRUD workflows, and a complete testing pyramid. | React, Redux, React Router, Tailwind CSS, JWT, Express, MongoDB, Playwright | [Live Demo](https://fso-blogs-redux.vercel.app/login) • [Code](https://github.com/Joehl1103/fso-redux-blog-list) |
+| GraphQL Library | Library and author management with GraphQL API | React, JWT, Apollo, GraphQL | [Live Demo](https://fso-library-graphql.vercel.app/) • [Code](https://github.com/Joehl1103/fso-library-graphql) |
 
 ### Personal Projects
 
-| Project                                                                 | Description                                                     | Stack                                         |
-| ----------------------------------------------------------------------- | --------------------------------------------------------------- | --------------------------------------------- |
-| [Coin counter](https://github.com/Joehl1103/coin-counter)               | Track and sum excess coins to simplify accounting.              | React, Material UI, JSON Server, Node, Vitest |
-| [Daily YNAB Spending](https://github.com/joehl1103/daily-spending-ynab) | Visualize daily spending by category using YNAB API integration | React, Material UI, YNAB SDK                  |
+| Project | Description | Stack | Links |
+| ------- | ----------- | ----- | ----- |
+| Coin counter | Track and sum excess coins to simplify accounting. | React, Material UI, JSON Server, Node, Vitest | [Video Demo](https://github.com/Joehl1103/coin-counter) • [Code](https://github.com/Joehl1103/coin-counter) |
+| Daily YNAB Spending | Visualize daily spending by category using YNAB API integration | React, Material UI, YNAB SDK | [Video Demo](https://github.com/joehl1103/daily-spending-ynab) • [Code](https://github.com/joehl1103/daily-spending-ynab) |
 
 ## Beyond Code
 
