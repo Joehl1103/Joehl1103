@@ -21,11 +21,11 @@ Full-stack developer building with React, Node.js, and TypeScript.
 ### Full Stack Open Projects (Professional)
 
 _These three projects are deployed on Vercel.com (FE) and Render.com (BE)._
-| Project | Description | Stack |
-| ----------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| [Patientor](https://fso-patientor-typescript.vercel.app) | Medical data management application | React, Material UI, TS, Node, Express |
-| [Redux Blog List](https://fso-blogs-redux.vercel.app/login) | Full-stack blog catalog with authentication, CRUD workflows, and a complete testing pyramid. | React, Redux, React Router, Tailwind CSS, JWT, Express, MongoDB, Playwright |
-| [GraphQL Library](https://fso-library-graphql.vercel.app/) | Library and author management with GraphQL API | React, JWT, Apollo, GraphQL |
+| Project | Description | Stack | Repository |
+| ----------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | --------- |
+| [Patientor](https://fso-patientor-typescript.vercel.app) | Medical data management application | React, Material UI, TS, Node, Express | [GitHub](https://github.com/Joehl1103/fso-patientor-typescript) |
+| [Redux Blog List](https://fso-blogs-redux.vercel.app/login) | Full-stack blog catalog with authentication, CRUD workflows, and a complete testing pyramid. | React, Redux, React Router, Tailwind CSS, JWT, Express, MongoDB, Playwright | [GitHub](https://github.com/Joehl1103/fso-redux-blog-list) |
+| [GraphQL Library](https://fso-library-graphql.vercel.app/) | Library and author management with GraphQL API | React, JWT, Apollo, GraphQL | [GitHub](https://github.com/Joehl1103/fso-library-graphql) |
 
 ### Personal Projects
 
