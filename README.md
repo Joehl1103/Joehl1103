@@ -24,7 +24,7 @@ _These three projects are deployed on Vercel.com (FE) and Render.com (BE)._
 | Project | Description | Stack | Links |
 | ----------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | --------- |
 | Patientor | Medical data management application | React, Material UI, TS, Node, Express | [Live Demo](https://fso-patientor-typescript.vercel.app) • [Code](https://github.com/Joehl1103/fso-patientor-typescript) |
-| Redux Blog List | Full-stack blog catalog with authentication, CRUD workflows, and a complete testing pyramid. | React, Redux, React Router, Tailwind CSS, JWT, Express, MongoDB, Playwright | [Live Demo](https://fso-blogs-redux.vercel.app/login) • [Code](https://github.com/Joehl1103/fso-redux-blog-list) |
+| Redux Blog List | Full-stack blog catalog with authentication, CRUD workflows, and a complete testing pyramid. | React, Redux, React Router, Tailwind CSS, JWT, Express, MongoDB, Playwright | [Live Demo](https://fso-blogs-redux.vercel.app/login) • [Code](https://github.com/Joehl1103/fso-blogs-redux) |
 | GraphQL Library | Library and author management with GraphQL API | React, JWT, Apollo, GraphQL | [Live Demo](https://fso-library-graphql.vercel.app/) • [Code](https://github.com/Joehl1103/fso-library-graphql) |
 
 ### Personal Projects
