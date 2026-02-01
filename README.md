@@ -31,8 +31,8 @@ _These three projects are deployed on Vercel.com (FE) and Render.com (BE)._
 
 | Project | Description | Stack | Links |
 | ------- | ----------- | ----- | ----- |
-| Coin counter | Track and sum excess coins to simplify accounting. | React, Material UI, JSON Server, Node, Vitest | [Video Demo](https://github.com/Joehl1103/coin-counter) • [Code](https://github.com/Joehl1103/coin-counter) |
-| Daily YNAB Spending | Visualize daily spending by category using YNAB API integration | React, Material UI, YNAB SDK | [Video Demo](https://github.com/joehl1103/daily-spending-ynab) • [Code](https://github.com/joehl1103/daily-spending-ynab) |
+| Coin counter | Track and sum excess coins to simplify accounting. | React, Material UI, JSON Server, Node, Vitest | [Code & Video Demo](https://github.com/Joehl1103/coin-counter) |
+| Daily YNAB Spending | Visualize daily spending by category using YNAB API integration | React, Material UI, YNAB SDK | [Code & Video Demo](https://github.com/joehl1103/daily-spending-ynab) |
 
 ## Beyond Code
 
