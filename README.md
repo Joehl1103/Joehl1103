@@ -1,6 +1,6 @@
 # Joseph Loomis
 
-Full-stack developer building with React, Node.js, and TypeScript.
+Full-stack JavaScript developer building with React, Node.js, and TypeScript.
 
 ## About Me
 
