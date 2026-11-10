@@ -41,5 +41,6 @@ Singer | Foodie | Liberal arts background
 ## Connect
 
 [LinkedIn](https://www.linkedin.com/in/jkhloomis/) | [X](https://x.com/JosephLoom30487) | jkhloomis@icloud.com
+[Codewars](https://www.codewars.com/users/jkhloomis1103)
 
 _Open to full-stack developer opportunities._
