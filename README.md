@@ -1,20 +1,22 @@
 # Joseph Loomis
 
 Full-stack JavaScript developer building with React, Node.js, and TypeScript.
+CRM Developer with extensive native HubSpot experience and 3rd party integrations in TypeScript and Node.js.
 
 ## About Me
 
 - Completed [Full Stack Open](https://fullstackopen.com/)
 - Background in Operations — I design systems and workflows
-- Experimenting with AI tooling and agentic workflows
-- Values: craftsmanship, continuous improvement
+- Working with AI harnesses and agentic workflows
+- Values: craftsmanship, maintainability, modularity, agility, continuous improvement
 
 ## Tech Stack
 
 **Frontend**: React | TypeScript | HTML | CSS
 **Backend**: Node.js | Express | GraphQL  
-**Databases**: MySQL | MongoDB & Mongoose
-**Tools**: Git | Docker | n8n
+**Databases**: PostgreSQL | MySQL | MongoDB & Mongoose
+**Tools**: Git | Docker 
+**Scripting**: Python, Lua
 
 ## Featured Projects
 
@@ -31,6 +33,7 @@ _These three projects are deployed on Vercel.com (FE) and Render.com (BE)._
 
 | Project | Description | Stack | Links |
 | ------- | ----------- | ----- | ----- |
+| Personal Website | portfolio website and blog (coming soon) | Vanilla JS, Web Components, Webpack, Nginx | [Code](https://github.com/Joehl1103/personal-website) [joseph-loomis.com](https://joseph-loomis.com)
 | Coin counter | Track and sum excess coins to simplify accounting. | React, Material UI, JSON Server, Node, Vitest | [Code & Video Demo](https://github.com/Joehl1103/coin-counter) |
 | Daily YNAB Spending | Visualize daily spending by category using YNAB API integration | React, Material UI, YNAB SDK | [Code & Video Demo](https://github.com/joehl1103/daily-spending-ynab) |
 
